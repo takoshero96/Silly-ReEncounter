@@ -1,3 +1,5 @@
+<a href="https://recomplauncher.com/game/silly-reencounter"><picture><source media="(prefers-color-scheme: dark)" srcset="https://recomplauncher.com/assets/press/launcher/badge-light.svg"><img alt="Get it on RecompLauncher" src="https://recomplauncher.com/assets/press/launcher/badge-dark.svg" height="48"></picture></a>
+
 [README.txt](https://github.com/user-attachments/files/32712861/README.txt)
 SILLY REENCOUNTER
 Unofficial fan project: play Serious Sam: Next Encounter (Nintendo GameCube, 2004) as a native PC program,

@@ -1,0 +1,27 @@
+{
+    "$schema": "https://recomplauncher.com/schema/recomplauncher.json",
+    "format": 1,
+    "repo": "takoshero96/Silly-ReEncounter",
+    "name": "Silly ReEncounter",
+    "requires": [
+        "start"
+    ],
+    "game": {
+        "kind": "iso",
+        "label": "Your own Serious Sam: Next Encounter disc image for GameCube, USA release (G3BE9G, Rev 1): .iso, .gcm, .rvz, .wia, .gcz or .ciso.",
+        "check": {
+            "ids": [
+                "G3BE9G"
+            ]
+        }
+    },
+    "start": {
+        "program": [
+            "SillyReEncounter-Game.exe"
+        ]
+    },
+    "saves": [
+        "{install}/saves",
+        "{install}/settings.ini"
+    ]
+}
